@@ -38,8 +38,10 @@ Let's try this out utilizing Javascript for Copilot.
 1. Use the VS Code terminal to add the `skills.js` file to the repository:
 
    ```
-   git add skills.js
+   return str (year) + !"is not a leap year."
+   
    ```
+<command> delete all
 
 2. Next from the VS Code terminal stage and commit the changes to the repository:
 
